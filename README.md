@@ -3,6 +3,7 @@ To develop a simple data fusion mechanism by using frequency as a domain and usi
 To evaluate parameters for the developed model of a simple data fusion mechanism
 
 the simple explaination of the above concept is given in the folowing images
+
 ![image](https://user-images.githubusercontent.com/88313584/208738802-7238d2f2-b04f-4590-b1af-d686c8603124.png)
 ![image](https://user-images.githubusercontent.com/88313584/208739055-f49c24b5-ce3f-42fa-91e9-fa106673c987.png)
 ![image](https://user-images.githubusercontent.com/88313584/208739210-5c69f876-50c3-452a-8606-67954accd0c0.png)
@@ -30,8 +31,10 @@ input data would be given as follows :- a sample data of the brain tumor disease
 
 
 output result for the image fusion model :-
+
 ![image](https://user-images.githubusercontent.com/88313584/208737056-e8cf3717-00bb-4716-8f04-7428895d7889.png)
 
 the final output given by the module is given as follows:-
+
 ![fusedimage](https://user-images.githubusercontent.com/88313584/208738210-5d4ba4c2-3393-468e-a176-19b0b9c4c9dc.jpg)
 
