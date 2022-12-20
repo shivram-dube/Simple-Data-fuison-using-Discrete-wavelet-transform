@@ -1,9 +1,15 @@
+
+Documentation and other presentation related information to following project:-
+
+https://drive.google.com/drive/folders/1gKWZLTGmQp4o0BMjw4Y0bTpd7XuIsoX2?usp=share_link
+
 # Simple-Data-fuison-using-machine-learning
 To develop a simple data fusion mechanism by using frequency as a domain and using the discrete wavelet transform method. 
 To evaluate parameters for the developed model of a simple data fusion mechanism
 
 the simple explaination of the above concept is given in the folowing images
 
+![image](https://user-images.githubusercontent.com/88313584/208742723-666529f1-387e-45b7-8111-9c721bebf76c.png)
 ![image](https://user-images.githubusercontent.com/88313584/208738802-7238d2f2-b04f-4590-b1af-d686c8603124.png)
 ![image](https://user-images.githubusercontent.com/88313584/208739055-f49c24b5-ce3f-42fa-91e9-fa106673c987.png)
 ![image](https://user-images.githubusercontent.com/88313584/208739210-5c69f876-50c3-452a-8606-67954accd0c0.png)
